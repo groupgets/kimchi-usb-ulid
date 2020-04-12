@@ -82,7 +82,7 @@
     (pad_size 3.7 3.7)
     (pad_drill 0)
     (pad_to_mask_clearance 0.0508)
-    (solder_mask_min_width 0.1016)
+    (solder_mask_min_width 0.0762)
     (aux_axis_origin 107 126)
     (grid_origin 107 126)
     (visible_elements FFFFFF7F)
